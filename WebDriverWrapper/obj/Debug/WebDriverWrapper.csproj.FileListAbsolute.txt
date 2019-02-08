@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\WebDriverWrapper.dll
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\WebDriverWrapper.pdb
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\obj\Debug\WebDriverWrapper.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\obj\Debug\WebDriverWrapper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\obj\Debug\WebDriverWrapper.dll
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\obj\Debug\WebDriverWrapper.pdb
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\IEDriverServer-license.txt
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\IEDriverServer.exe
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\WebDriver.Support.dll
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\WebDriver.xml
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\WebDriver.Support.xml
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\obj\Debug\WebDriverWrapper.csproj.CopyComplete
+C:\Users\User\source\repos\AutomationFramework\V1.0.0.0\Development\WebDriverWrapper\bin\Debug\chromedriver.exe
